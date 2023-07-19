@@ -37,9 +37,7 @@ Complete user authentication system implemented in Django 2.1 with Bootstrap.
 </div>
 
 <h3>Profile Page</h3>
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/19981097/52143844-bf643780-2686-11e9-9675-1215fd2532e2.png" width="100%"></img> 
-</div>
+
 
 <h2>Author</h2>
 <blockquote>
